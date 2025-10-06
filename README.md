@@ -3,6 +3,16 @@ This repository is for the youtube series on machine learning.
 
 # Installation Guide
 
+# Recreating the Environment
+
+If you want to recreate the environment, you need `conda` installed in your system.
+
+Than run the following command:
+
+```bash
+conda env create -f environment.yml
+```
+
 ## Installing Conda
 
 `Conda` is a package manager that simplifies the installation of Python packages and their dependencies. To install `Conda` we can use the `Anaconda` or `Miniconda` distribution.
