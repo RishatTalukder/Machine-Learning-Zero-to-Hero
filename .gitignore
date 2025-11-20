@@ -3,3 +3,4 @@ test.py
 .ipynb_checkpoints
 *.html
 test.ipynb
+__pycache__
