@@ -9,3 +9,7 @@ dependencies:
   - pandas
   - matplotlib
   - seaborn
+  - scipy
+  - scikit-learn
+  - statsmodels
+  - nltk
